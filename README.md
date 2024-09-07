@@ -12,5 +12,5 @@ Vertex AI PaLM API+LangChainのノートブックコードです。
 * [Advanced Prompting: Chain of Thought and ReAct (Reasoning + Acting)](https://github.com/GoogleCloudPlatform/specialized-training-content/blob/main/courses/generative_ai/app_dev_llm/cot_react.ipynb)
 * [GroceryBot, a sample grocery and recipe assistant - RAG + ReAct](https://github.com/googlecloudplatform/generative-ai/blob/main/language/use-cases/chatbots/grocerybot_assistant.ipynb)
 
-### 更新履歴
+#### 更新履歴
 2024/09/12 [narita-masaaki/langchain-palm-api-ja](https://github.com/narita-masaaki/langchain-palm-api-ja/edit/main/README.md)公開
