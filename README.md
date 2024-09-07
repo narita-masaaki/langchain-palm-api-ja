@@ -3,7 +3,6 @@
 このプロジェクトは、Apache License 2.0 と独自の追加ライセンスの下でライセンスされています。
 
 * Apache License 2.0: [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-* 追加ライセンス: [LICENSE ファイルを参照](LICENSE)
 
 **追加ライセンス条項の概要**
 
